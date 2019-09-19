@@ -1,0 +1,6 @@
+C:\Users\Analista\Desktop\AgendaFisio\FisioAgenda.Dominio\bin\Debug\FisioAgenda.Dominio.dll
+C:\Users\Analista\Desktop\AgendaFisio\FisioAgenda.Dominio\bin\Debug\FisioAgenda.Dominio.pdb
+C:\Users\Analista\Desktop\AgendaFisio\FisioAgenda.Dominio\obj\Debug\FisioAgenda.Dominio.csprojAssemblyReference.cache
+C:\Users\Analista\Desktop\AgendaFisio\FisioAgenda.Dominio\obj\Debug\FisioAgenda.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Analista\Desktop\AgendaFisio\FisioAgenda.Dominio\obj\Debug\FisioAgenda.Dominio.dll
+C:\Users\Analista\Desktop\AgendaFisio\FisioAgenda.Dominio\obj\Debug\FisioAgenda.Dominio.pdb

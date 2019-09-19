@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FisioAgenda", "FisioAgenda\FisioAgenda.csproj", "{4AC9D6FA-0102-46DB-8227-5BC9F09AA08F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FisioAgenda.Dominio", "FisioAgenda.Dominio\FisioAgenda.Dominio.csproj", "{72FEA2A9-511C-4930-B351-0A08F048A327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FisioAgenda.Helper", "FisioAgenda.Helper\FisioAgenda.Helper.csproj", "{DD1DCFC3-F2A7-4728-BE60-8EB7A8CD7D5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FisioAgenda.Data", "FisioAgenda.Data\FisioAgenda.Data.csproj", "{8D99E1FD-8079-4E69-9176-14A01D332C8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +21,23 @@ Global
 		{4AC9D6FA-0102-46DB-8227-5BC9F09AA08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AC9D6FA-0102-46DB-8227-5BC9F09AA08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AC9D6FA-0102-46DB-8227-5BC9F09AA08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72FEA2A9-511C-4930-B351-0A08F048A327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FEA2A9-511C-4930-B351-0A08F048A327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72FEA2A9-511C-4930-B351-0A08F048A327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72FEA2A9-511C-4930-B351-0A08F048A327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1DCFC3-F2A7-4728-BE60-8EB7A8CD7D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1DCFC3-F2A7-4728-BE60-8EB7A8CD7D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1DCFC3-F2A7-4728-BE60-8EB7A8CD7D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1DCFC3-F2A7-4728-BE60-8EB7A8CD7D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D99E1FD-8079-4E69-9176-14A01D332C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D99E1FD-8079-4E69-9176-14A01D332C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D99E1FD-8079-4E69-9176-14A01D332C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D99E1FD-8079-4E69-9176-14A01D332C8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03279F00-DD68-4426-BB3D-46BE488A6AD5}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Analista\Desktop\AgendaFisio\FisioAgenda.Helper\bin\Debug\FisioAgenda.Helper.dll
+C:\Users\Analista\Desktop\AgendaFisio\FisioAgenda.Helper\bin\Debug\FisioAgenda.Helper.pdb
+C:\Users\Analista\Desktop\AgendaFisio\FisioAgenda.Helper\obj\Debug\FisioAgenda.Helper.csprojAssemblyReference.cache
+C:\Users\Analista\Desktop\AgendaFisio\FisioAgenda.Helper\obj\Debug\FisioAgenda.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Analista\Desktop\AgendaFisio\FisioAgenda.Helper\obj\Debug\FisioAgenda.Helper.dll
+C:\Users\Analista\Desktop\AgendaFisio\FisioAgenda.Helper\obj\Debug\FisioAgenda.Helper.pdb
